@@ -1,4 +1,4 @@
-package de.kaesdingeling.simpleblockchain;
+package de.kaesdingeling.simpleblockchain.data;
 
 import lombok.Builder;
 import lombok.Data;
